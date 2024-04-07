@@ -15,8 +15,7 @@ Services Used:
 4.	Telegram Bot - Telegram's Bot API to receive messages, process requests, and send responses, enabling a wide range of functionalities from simple commands to complex workflows.
 
 Architecture:
-![image](https://github.com/vivek0234/CSC-PDF-Com/assets/110586406/177a25ea-5b1d-40b8-8f2e-4a2ac9c12a81)
-
+![image](https://github.com/vivek0234/CSC-PDF-Compressor/assets/110586406/3f204611-cb1b-45ec-902d-ae9126d93d77)
 
 Connection through the services:
 
