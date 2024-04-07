@@ -3,6 +3,8 @@ PDF Compressor Bot
 
 LinkedIn Article Link:https://www.linkedin.com/posts/vivek-kayala_cloudandserverlesscomputing-aws-kluniversity-activity-7182638088031023104-LuX-/?utm_source
 
+Youtube Link:https://youtu.be/K1kdRvXjsjQ?si=aWE0t76-Ik5f0cj6
+
 Services Used:
 1.	AWS Lambda - With the serverless computing service AWS Lambda, you can run code without having to setup or manage servers. 
 
