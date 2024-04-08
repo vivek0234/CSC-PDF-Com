@@ -1,8 +1,8 @@
 Title:
 PDF Compressor Bot
 
-LinkedIn Article Link:https://www.linkedin.com/posts/vivek-kayala_cloudandserverlesscomputing-aws-kluniversity-activity-7182638088031023104-LuX-/?utm_source
-
+LinkedIn Article Link:[https://www.linkedin.com/posts/vivek-kayala_cloudandserverlesscomputing-aws-kluniversity-activity-7182638088031023104-LuX-/?utm_source
+](https://www.linkedin.com/pulse/pdf-compressor-telegram-bot-vivek-kayala-ey9ic/)
 Youtube Link:https://youtu.be/K1kdRvXjsjQ?si=aWE0t76-Ik5f0cj6
 
 Services Used:
