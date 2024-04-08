@@ -2,6 +2,7 @@ Title:
 PDF Compressor Bot
 
 LinkedIn Article Link:https://www.linkedin.com/pulse/pdf-compressor-telegram-bot-vivek-kayala-ey9ic/
+
 Youtube Link:https://youtu.be/K1kdRvXjsjQ?si=aWE0t76-Ik5f0cj6
 
 Services Used:
@@ -25,6 +26,7 @@ lambda -> s3 (output)
 lambda -> telegram
 
 Steps:
+
 Step-1: Open the AWS Management console in the web browser
   
 ![image](https://github.com/vivek0234/CSC-PDF-Com/assets/110586406/8968fc98-a614-4b16-83d9-30a6d8d29762)
